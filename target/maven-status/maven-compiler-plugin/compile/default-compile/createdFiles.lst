@@ -1,0 +1,12 @@
+com\everis\clientservice\Constants\Constants$Messages.class
+com\everis\clientservice\model\Customer.class
+com\everis\clientservice\repository\CustomerRepository.class
+com\everis\clientservice\Constants\Constants.class
+com\everis\clientservice\service\CustomerService.class
+com\everis\clientservice\customertServiceApplication.class
+com\everis\clientservice\model\TypeCustomers.class
+com\everis\clientservice\constant\Constants$Messages.class
+com\everis\clientservice\controler\CustomerController.class
+com\everis\clientservice\dto\CustomerFrom.class
+com\everis\clientservice\constant\Constants.class
+com\everis\clientservice\dto\Message.class
